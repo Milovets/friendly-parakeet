@@ -12,7 +12,7 @@ HTML, Javascript
 ## Screenshot
 
 ## Screenshot of page
-![Screenshot](.g/Develop/assets/Screenshot.png)
+![Screenshot](./Develop/assets/Screenshot.png)
 
 ## Authors
 
